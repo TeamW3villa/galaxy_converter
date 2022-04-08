@@ -1,12 +1,12 @@
 ## Usage
 
 To run this application:
-ruby converter.rb
+``` ruby converter.rb ```
 
 the application reads input.txt automatically or you can change input.txt at your will.
 
 To run specs:
-bundle exec rspec spec/
+``` bundle exec rspec spec/ ``` 
 
 
 ## Description
